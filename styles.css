@@ -1,0 +1,17 @@
+#grid {
+  display: flex;
+  flex-direction: row;
+
+  flex-wrap: wrap;
+}
+
+.square {
+  /* border: 10px solid rgb(57, 190, 30); */
+  background-color: blue;
+
+  height: 100px;
+}
+
+.changeColor {
+  background-color: red;
+}
